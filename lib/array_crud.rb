@@ -23,8 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   famous_cats = ["lil bub", "grumpy cat", "maru", "pusheen"]
-  "lil bub" = famous_cats.
-  
+  "lil bub" = famous_cats.shift
 end
 
 def retrieve_element_from_index(array, index_number)
