@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  famous_cats
+  famous_cats = ["lil bub", "grumpy cat", "maru", "pusheen"]
+  
   
 end
 
